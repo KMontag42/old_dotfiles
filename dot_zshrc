@@ -1,4 +1,7 @@
 setopt auto_cd
+setopt APPEND_HISTORY
+setopt HIST_FIND_NO_DUPS
+setopt INTERACTIVE_COMMENTS
 
 eval "$(starship init zsh)"
 
