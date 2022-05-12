@@ -28,3 +28,6 @@ source $HOME/.zsh-fzf-search-history.zsh
 source $HOME/.functions.zsh
 source $HOME/.keybinds.zsh
 source $HOME/.g/g.zsh
+
+# g after cd
+chpwd() { _g_chpwd }
