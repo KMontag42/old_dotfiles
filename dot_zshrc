@@ -1,3 +1,6 @@
+autoload -Uz compinit
+compinit
+
 setopt auto_cd
 setopt APPEND_HISTORY
 setopt HIST_FIND_NO_DUPS
