@@ -31,3 +31,6 @@ source $HOME/.g/g.zsh
 
 # g after cd
 chpwd() { _g_chpwd }
+
+source $HOME/.zshrc.local
+source $HOME/.aliases.local
