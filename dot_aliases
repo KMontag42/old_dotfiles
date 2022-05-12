@@ -2,7 +2,6 @@ alias ls=exa
 alias la=ls -al
 alias cat=bat
 
-# fasd
 alias a='fasd -a'        # any
 alias s='fasd -si'       # show / search / select
 alias d='fasd -d'        # directory
