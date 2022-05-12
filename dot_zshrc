@@ -21,3 +21,4 @@ source "$fasd_cache"
 unset fasd_cache
 
 source $HOME/.aliases
+source $HOME/.zsh-fzf-search-history.zsh
