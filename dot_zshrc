@@ -33,3 +33,7 @@ source $HOME/.zsh-vi-mode.zsh
 # local files for special sauce
 source $HOME/.zshrc.local
 source $HOME/.aliases.local
+
+PATH=$PATH:$HOME/bin
+
+. /usr/local/opt/asdf/libexec/asdf.sh
