@@ -12,3 +12,10 @@ alias z='fasd_cd -d'     # cd, same functionality as j in autojump
 alias zz='fasd_cd -d -i' # cd with interactive selection
 
 alias tl='tmux list-sessions'
+
+alias gco="git checkout"
+alias gcm="git checkout master"
+alias gf="git pull"
+alias gp="git push"
+alias gcb="git checkout -b"
+alias gcam="git commit -am"
