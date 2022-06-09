@@ -51,3 +51,5 @@ function _unbak() {
 }
 
 compdef _unbak unbak
+
+function dy { dig +noall +answer +additional "$1" @dns.toys; }
