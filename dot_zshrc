@@ -27,8 +27,6 @@ source $HOME/.aliases
 source $HOME/.zsh-fzf-search-history.zsh
 source $HOME/.functions.zsh
 source $HOME/.keybinds.zsh
-source $HOME/.g/g.zsh
-source $HOME/.zsh-vi-mode.zsh
 
 # local files for special sauce
 source $HOME/.zshrc.local
