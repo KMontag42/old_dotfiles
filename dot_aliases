@@ -1,5 +1,5 @@
 alias ls=exa
-alias la=ls -al
+alias la="ls -al"
 alias cat=bat
 
 alias a='fasd -a'        # any
