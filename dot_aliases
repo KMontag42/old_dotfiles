@@ -23,3 +23,7 @@ alias gf="git pull"
 alias gp="git push"
 alias gcb="git checkout -b"
 alias gcam="git commit -am"
+
+alias tf="terraform"
+alias tfv="terraform validate"
+alias tfp="terraform plan"
