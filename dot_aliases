@@ -17,10 +17,11 @@ alias ta="tmux attach -t"
 
 alias g="git"
 alias gs="git status"
-alias gco="git checkout"
-alias gcm="git checkout master"
 alias gf="git pull"
 alias gp="git push"
+alias gaa="git add ."
+alias gco="git checkout"
+alias gcm="git checkout master"
 alias gcb="git checkout -b"
 alias gcam="git commit -am"
 
