@@ -68,5 +68,6 @@ g() {
 condanew() {
     conda create -n $(basename $PWD) python=3.9 -y
     source activate $(basename $PWD)
+    pip install lolcat
 }
 
