@@ -63,3 +63,10 @@ g() {
     git status
   fi
 }
+
+# makes a new conda env for the current directory
+condanew() {
+    conda create -n $(basename $PWD) python=3.9 -y
+    source activate $(basename $PWD)
+}
+
