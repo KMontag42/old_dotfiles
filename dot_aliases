@@ -22,7 +22,6 @@ alias gco="git checkout"
 alias gcm="git checkout master"
 alias gcb="git checkout -b"
 alias gcam="git commit -am"
-alias gpu="git push -u origin $(git branch --show-current)"
 
 alias tf="terraform"
 alias tfv="terraform validate"
