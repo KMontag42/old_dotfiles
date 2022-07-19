@@ -72,3 +72,6 @@ condanew() {
     direnv allow .
 }
 
+function gpup() {
+    git push -u origin $(git branch --show-current)
+}
